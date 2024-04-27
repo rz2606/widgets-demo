@@ -1,0 +1,5 @@
+{
+    "name": "counter",
+    "entry": "index.jsx",
+    "ignore": false
+}

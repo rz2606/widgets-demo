@@ -1,0 +1,5 @@
+{
+  "name": "todolist",
+  "entry": "src/index.jsx",
+  "ignore": false
+}
