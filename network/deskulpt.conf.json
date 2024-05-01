@@ -1,0 +1,5 @@
+{
+    "name": "sysInfo",
+    "entry": "index.jsx",
+    "ignore": false
+}
